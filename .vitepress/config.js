@@ -16,7 +16,7 @@ export default defineConfig({
   // Theme configuration
   themeConfig: {
     // Site logo
-    logo: '/logo.svg',
+    logo: '/logo.png',
     
     // Navigation
     nav: [
@@ -123,7 +123,7 @@ export default defineConfig({
 
   // Head tags
   head: [
-    ['link', { rel: 'icon', href: '/lumenvia-help/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/lumenvia-help/logo.png' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
