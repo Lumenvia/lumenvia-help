@@ -15,14 +15,10 @@ Learn how to set up and organize your digital classrooms in Lumenvia.
    - **Description**: Add a brief description of the class goals
 
 3. **Class Settings**
-   - **Privacy**: Choose between public (searchable) or private (invitation only)
    - **Join Method**: Set how students can join (invitation code, direct invites, or open enrollment)
-   - **Class Schedule**: Add meeting times and duration (optional)
 
 4. **Advanced Settings**
    - **Grading Scale**: Set your preferred grading system
-   - **Late Policy**: Configure late submission rules
-   - **AI Features**: Enable/disable AI quiz generation and tutoring
 
 ## Class Management Features
 

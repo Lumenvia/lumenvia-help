@@ -48,13 +48,6 @@ Lumenvia is an AI-powered educational platform designed to help teachers create 
 - **[Generate AI Quizzes](/teachers/creating-quizzes)** - Create assessments automatically from your materials
 - **[Track Progress](/teachers/analytics)** - Monitor student performance and engagement
 
-### Subjects Supported
-
-Lumenvia currently supports:
-- **Mathematics** - From basic arithmetic to advanced calculus
-- **English** - Literature, writing, grammar, and composition
-- **French** - Language learning and literature
-- **More subjects coming soon!**
 
 ### Need Help?
 
