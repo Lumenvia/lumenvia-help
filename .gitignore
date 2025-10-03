@@ -6,3 +6,11 @@ cache/
 dist/
 .DS_Store
 Thumbs.db
+
+# Root markdown files (except README.md)
+class-specific-dashboard-filtering.md
+deployment-guide.md
+file-upload-architecture-decoupling.md
+index.md
+private-bucket-security.md
+realtime-architecture-improvement.md
