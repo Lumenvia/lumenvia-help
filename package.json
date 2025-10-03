@@ -1,0 +1,34 @@
+{
+  "name": "lumenvia-help",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Official documentation and help center for Lumenvia AI-powered teaching platform",
+  "keywords": [
+    "education",
+    "ai",
+    "documentation",
+    "teaching",
+    "learning",
+    "lumenvia"
+  ],
+  "homepage": "https://lumenvia.github.io/lumenvia-help/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lumenvia/lumenvia-help.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lumenvia/lumenvia-help/issues"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.3.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
