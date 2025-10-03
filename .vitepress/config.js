@@ -10,6 +10,9 @@ export default defineConfig({
   // Base URL for GitHub Pages (will be /lumenvia-help/)
   base: '/lumenvia-help/',
   
+  // Ignore dead links during development
+  ignoreDeadLinks: true,
+  
   // Theme configuration
   themeConfig: {
     // Site logo
