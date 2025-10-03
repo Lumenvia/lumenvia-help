@@ -6,7 +6,7 @@ hero:
   text: "AI-Powered Teaching Platform"
   tagline: "Complete documentation for teachers and students"
   image:
-    src: /logo-large.png
+    src: /lumenvia-help/logo-large.png
     alt: Lumenvia
   actions:
     - theme: brand
