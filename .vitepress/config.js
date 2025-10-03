@@ -130,6 +130,13 @@ export default defineConfig({
     ['meta', { name: 'og:title', content: 'Lumenvia Documentation' }],
     ['meta', { name: 'og:description', content: 'Complete guide to using Lumenvia AI-powered teaching platform' }],
     ['meta', { name: 'og:type', content: 'website' }],
-    ['meta', { name: 'og:url', content: 'https://lumenvia.github.io/lumenvia-help/' }]
+    ['meta', { name: 'og:url', content: 'https://lumenvia.github.io/lumenvia-help/' }],
+    ['meta', { name: 'og:image', content: 'https://lumenvia.github.io/lumenvia-help/logo-large.png' }],
+    ['meta', { name: 'og:image:width', content: '1200' }],
+    ['meta', { name: 'og:image:height', content: '630' }],
+    ['meta', { name: 'og:image:alt', content: 'Lumenvia - AI-Powered Teaching Platform' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:image', content: 'https://lumenvia.github.io/lumenvia-help/logo-large.png' }],
+    ['meta', { name: 'twitter:image:alt', content: 'Lumenvia - AI-Powered Teaching Platform' }]
   ]
 })
